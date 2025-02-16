@@ -28,8 +28,8 @@ This tool allows you to **hide confidential messages inside images** using **AES
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/mohd-amaan1/image-steganography.git
-cd image-steganography
+git clone https://github.com/mohd-amaan1/Image-Steganography.git
+cd Image-Steganography
 ```
 
 ### **2️⃣ Install Dependencies**  
